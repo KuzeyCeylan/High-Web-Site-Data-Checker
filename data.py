@@ -1,4 +1,3 @@
-from asyncio import exceptions
 import random
 import requests
 from bs4 import BeautifulSoup
